@@ -1,27 +1,28 @@
 [
 	{
 		"id": 1,
-		"author": "Jane Doe",
-		"review": "The food was amazing! I loved the atmosphere and the service was great."
-	},
+		"author": "Irini G.",
+		"review": "Best Coffee In Town!!! Espresso Freddo & Cappuccino Freddo out of this world☕☕☕Pet friendly as well 🐶🐕🐩…"
+	
+},
 	{
 		"id": 2,
-		"author": "John Smith",
-		"review": "The best Italian food I've ever had. I can't wait to come back!"
+		"author": "Eleni T.",
+		"review": "Beautiful cafe, nice atmosphere, great coffee, lovely owners. Must visit!"
 	},
 	{
 		"id": 3,
-		"author": "Alice Johnson",
-		"review": "The pasta was perfectly cooked and the sauce was delicious. I highly recommend this restaurant."
+		"author": "Klaus-Peter S.",
+		"review": "Während unseres Urlaubs im Mai 2022 besuchten wir ab und an das Art-Cafe auf einen \"Spezial-Cafe\".  Sehr zu empfehlen . Immer sehr freundliche Atmosphäre , Hilfsbereit bei Fragen zu Bus etc.  Freuen uns auf den nächsten Urlaub"
 	},
 	{
 		"id": 4,
-		"author": "Bob Brown",
-		"review": "The pizza was fantastic! I will definitely be ordering from here again."
+		"author": "Marco V.",
+		"review": "Titolare molto simpatico e ambiente accogliente, ottimo caffè, servito con acqua fresca e musica fantastica.Ideale per relax"
 	},
 	{
 		"id": 5,
-		"author": "Sarah Wilson",
-		"review": "The tiramisu was to die for. I will be dreaming about it for weeks."
+		"author": "Markar M.",
+		"review": "Friendly service. Good coffee. Good desserts with some extras. Excellent musical selections. Great atmosphere for an afternoon delight."
 	}
 ]
