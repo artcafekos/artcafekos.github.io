@@ -1,0 +1,390 @@
+[
+	{
+		"id": 1,
+		"slug": "coffee",
+		"prettyName": "Coffee",
+		"description": "Start your day with a perfect cup of coffee.",
+		"plates": [
+			{
+				"name": "Espresso",
+				"description": "We also offer a special single-origin blend for an extra 2€.",
+				"price": 3.0
+			},
+			{
+				"name": "Espresso Macchiato",
+				"description": "Espresso with a small amount of steamed milk and foam. We also offer a special single-origin blend for an extra 2€.",
+				"price": 3.0
+			},
+			{
+				"name": "Cappuccino",
+				"description": "We also offer a special single-origin blend for an extra 2€.",
+				"price": 4.00
+			},
+			{
+				"name": "Double Cappuccino",
+				"description": "We also offer a special single-origin blend for an extra 2€.",
+				"price": 5.0
+			},
+			{
+				"name": "Freddo Espresso",
+				"description": "Iced Cold Espresso. We also offer a special single-origin blend for an extra 2€.",
+				"price": 4.0
+			},
+			{
+				"name": "Freddo Cappuccino",
+				"description": "Iced Cold Cappuccino. We also offer a special single-origin blend for an extra 2€.",
+				"price": 5.0
+			},
+			{
+				"name": "Espresso Affogato",
+				"description": "Espresso poured over vanilla ice cream. We also offer a special single-origin blend for an extra 2€.",
+				"price": 6.00
+			},
+			{
+				"name": "Latte",
+				"description": "Espresso with a large amount of steamed milk.",
+				"price": 5.0
+			},
+			{
+				"name": "Iced Latte",
+				"description": "Iced Espresso with a large amount of foam milk served over ice.",
+				"price": 5.0
+			},
+			{
+				"name": "Cafe Americano",
+				"description": "Espresso diluted with hot water. We also offer a special single-origin blend for an extra 2€.",
+				"price": 3.00
+			},
+			{
+				"name": "Mocha",
+				"description": "Espresso with steamed milk and chocolate sauce.",
+				"price": 5.0
+			},
+			{
+				"name": "Black Coffee",
+				"description": "Freshly brewed black coffee with a rich aroma.",
+				"price": 4.0
+			},
+			{
+				"name": "Nescafè Frappe",
+				"description": "The traditional Greek iced coffee made with instant coffee, sugar, and milk.",
+				"price": 4.0
+			},
+			{
+				"name": "Nescafè Frappe with Ice Cream",
+				"description": "The traditional Greek iced coffee made with instant coffee, served with vanilla ice cream.",
+				"price": 6.0
+			},
+			{
+				"name": "Canadiano Coffee",
+				"description": "2 shots of espresso with maple syrup and foam milk.\nWe also offer a special single-origin blend for an extra 2€\n",
+				"price": 4
+			},
+			{
+				"name": "Filter Coffee",
+				"description": "Freshly brewed filter coffee with a rich aroma.",
+				"price": 4.0
+			},
+			{
+				"name": "Irish Coffee",
+				"description": "Hot coffee with Irish whiskey, sugar, and topped with cream.",
+				"price": 8.0
+			}
+			
+		]
+	},
+	{
+		"id": 2,
+		"slug": "refreshments",
+		"prettyName": "Refreshments",
+		"description": "Quench your thirst with our selection of refreshing drinks.",
+		"plates": [
+			{
+				"name": "Fresh Orange Juice",
+				"description": "Freshly squeezed orange juice.",
+				"price": 5.0
+			},
+			{
+				"name": "Milkshake",
+				"description": "Creamy milkshake with vanilla,chocolate or strawberry ice cream.",
+				"price": 6.0
+			},
+			{
+				"name": "Smoothies",
+				"description": "Ice Cold Smoothies with a mix of fresh fruits.",
+				"price": 6.0
+			},
+			{
+				"name": "Slush Puppy",
+				"description": "Iced slush with a choice of flavors.",
+				"price": 6.0
+			},
+			{
+				"name": "Arugula Salad",
+				"description": "Peppery arugula with shaved parmesan and lemon dressing.",
+				"price": 7
+			},
+			{
+				"name": "Amita Motion 330ml",
+				"description": "Refreshing blend of fruit juices and vitamins.",
+				"price": 4.0
+			},
+			{
+				"name": "Amita Juice 330ml",
+				"description": "Refreshing juice with vitamins.",
+				"price": 8
+			},
+			{
+				"name": "Coca Cola/Coca Cola Zero 330ml",
+				"description": "Refreshing Coca Cola or Coca Cola Zero.",
+				"price": 4.0
+			},
+			{
+				"name": "Fanta Orange/Lemon 330ml",
+				"description": "Refreshing Fanta Orange or Lemon.",
+				"price": 4.0
+			},
+			{
+				"name": "Sprite 330ml",
+				"description": "Refreshing Sprite with a crisp lemon-lime flavor.",
+				"price": 4.0
+			},
+			{
+				"name": "Ice Tea Peach/Lemon/Green Tea 330ml",
+				"description": "Refreshing ice tea with peach or lemon flavor.",
+				"price": 4.0
+			},
+			
+			{
+				"name": "Schweppes Tonic 330ml",
+				"description": "Refreshing Schweppes Tonic with a crisp citrus flavor.",
+				"price": 4.0
+			},
+			{
+				"name": "Schweppes Soda 330ml",
+				"description": "Refreshing Schweppes Soda with a crisp citrus flavor.",
+				"price": 4.0
+			},
+			{
+				"name": "Schweppes Flavored Fizzy Drinks 330ml",
+				"description": "Orangade, Lemonade, Pink Grapefruit. ",
+				"price": 4.0
+			},
+			{
+				"name": "Still Water 500ml",
+				"description": "",
+				"price": 2.0
+			},
+			{
+				"name": "Sparkling Water",
+				"description": "",
+				"price": 3.0
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "beers",
+		"prettyName": "Beers and Ciders",
+		"description": "Enjoy our selection of refreshing beers and ciders.",
+		"plates": [
+			{
+				"name": "Alfa Lager Draught 330ml (Small)",
+				"description": "A greek staple, Alfa Lager is a must try in Greece.",
+				"price": 4
+			},
+			{
+				"name": "Mythos 330ml",
+				"description": "The most famous Greek beer.",
+				"price": 4.0
+			},
+			{
+				"name": "Alfa Lager Draught 500ml (Large)",
+				"description": "A greek staple, Alfa Lager is a must try in Greece.",
+				"price": 7.5
+			},
+			{
+				"name": "Amstel 330ml",
+				"description": "The famous Amsterdam beer.",
+				"price": 4.0
+			},
+			{
+				"name": "Heineken 330ml",
+				"description": "The classic Dutch lager.",
+				"price": 4
+			},
+			{
+				"name": "Corona 330ml",
+				"description": "The famous Mexican Cerveza.",
+				"price": 6
+			},
+			{
+				"name": "Strongbow Cider 330ml",
+				"description": "The worlds best selling cider.",
+				"price": 6.0
+			},
+			{
+				"name": "Kopparberg Cider 500ml",
+				"description": "The renowed Swedish cider with a variety of flavors.",
+				"price": 6.0
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "beverages",
+		"prettyName": "Beverages",
+		"description": "Savor the flavors of our beverages.",
+		"plates": [
+			{
+				"name": "Hot Chocolate",
+				"description": "Rich and creamy hot chocolate.",
+				"price": 6
+			},
+			{
+				"name": "Cold Chocolate",
+				"description": "Rich and creamy cold chocolate, but ice cold.",
+				"price": 6
+			},
+			{
+				"name": "Tea",
+				"description": "A selection of premium teas.",
+				"price": 4.0
+			},
+			{
+				"name": "Cannabis Tea",
+				"description": "Relaxing tea infused with cannabis for a soothing experience.",
+				"price": 7.0
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "wines",
+		"prettyName": "Wines and Spirits",
+		"description": "Indulge in our selection of fine wines and spirits.",
+		"plates": [
+			{
+				"name": "Moschofilero Boutari White Wine",
+				"description": "Pale yellow with greenish-yellow highlights, featuring an intense varietal aroma of flowers and citrus on the nose and palate—predominantly white rose and orange blossom. A fresh wine, full-bodied and well-balanced, with a long-lasting aftertaste.",
+				"price": 6
+			},
+			{
+				"name": "Agiorgitiko Boutari Red Wine",
+				"description": "An attractive deep red color, featuring a rich aromatic bouquet where scents of red fruits, such as plum, balance perfectly with sweet aging notes of vanilla and cocoa. It is full-bodied with excellent structure, balance, and a velvety finish.",
+				"price": 6
+			},
+			{
+				"name": "Ouzo",
+				"description": "Traditional Greek anise-flavored spirit.",
+				"price": 6
+			},
+			{
+				"name": "Metaxa Brandy",
+				"description": "A premium Greek brandy with a rich, complex flavor profile.",
+				"price": 8
+			},
+			{
+				"name": "Vodka",
+				"description": "Premium vodka with a smooth finish.",
+				"price": 8
+			},
+			{
+				"name": "Whiskey",
+				"description": "Premium whiskey with a smooth finish.",
+				"price": 8
+			},
+			{
+				"name": "Bacardi Rum",
+				"description": "Premium rum with a smooth finish.",
+				"price": 8
+			},
+			{
+				"name": "Gin",
+				"description": "Premium gin with a smooth finish.",
+				"price": 8
+			},
+			{
+				"name": "Tequila",
+				"description": "Premium tequila with a smooth finish.",
+				"price": 8
+			}
+			
+		]
+	},
+	{
+		"id": 6,
+		"slug": "energy-drinks",
+		"prettyName": "Energy Drinks",
+		"description": "Boost your energy with our selection of refreshing energy drinks.",
+		"plates": [
+			{
+				"name": "Red Bull 250ml",
+				"description": "Classic Red Bull energy drink.",
+				"price": 4.0
+			},
+			{
+				"name": "Monster Energy 500ml",
+				"description": "Unleash the beast with Monster Energy.",
+				"price": 5.0
+			},
+			{
+				"name": "Hell Energy 500ml",
+				"description": "Gives you power like hell.",
+				"price": 3.5
+			}
+			
+		]
+	},
+	{
+		"id": 7,
+		"slug": "snacks",
+		"prettyName": "Snacks",
+		"description": "Enjoy our selection of delicious snacks.",
+		"plates": [
+			{
+				"name": "Sandwiches",
+				"description": "Classic sandwiches with fresh ingredients.",
+				"price": 5.5
+			},
+			{
+				"name": "Toasties",
+				"description": "Grilled toasties with a variety of fillings.",
+				"price": 5.5
+			},
+			{
+				"name": "Tortilla Wraps",
+				"description": "Soft tortilla wraps filled with your choice of ingredients.",
+				"price": 5.5
+			},
+			{
+				"name": "Puff Pastries",
+				"description": "Ask for Today's Puff Pastry, made fresh daily.",
+				"price": 4
+			}
+		]
+	},
+	{
+		"id": 8,
+		"slug": "sweets",
+		"prettyName": "Sweets",
+		"description": "Discover our sweet and delightful desserts.",
+		"plates": [
+			{
+				"name": "Sugar Donut",
+				"description": "Freshly made donuts with a sweet sugar coating.",
+				"price": 3.5
+			},
+			{
+				"name": "Chocolate Donut",
+				"description": "Freshly made donuts with a rich chocolate filling.",
+				"price": 3.5
+			},
+			{
+				"name": "Pancakes",
+				"description": "Freshly made pancakes with a variety of toppings.",
+				"price": 7.0
+			}
+		]
+	}
+]
