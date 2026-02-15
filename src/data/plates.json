@@ -78,7 +78,7 @@
 			{
 				"name": "Canadiano Coffee",
 				"description": "2 shots of espresso with maple syrup and foam milk.\nWe also offer a special single-origin blend for an extra 2€\n",
-				"price": 4
+				"price": 5
 			},
 			{
 				"name": "Filter Coffee",
@@ -120,11 +120,6 @@
 				"price": 6.0
 			},
 			{
-				"name": "Arugula Salad",
-				"description": "Peppery arugula with shaved parmesan and lemon dressing.",
-				"price": 7
-			},
-			{
 				"name": "Amita Motion 330ml",
 				"description": "Refreshing blend of fruit juices and vitamins.",
 				"price": 4.0
@@ -132,7 +127,7 @@
 			{
 				"name": "Amita Juice 330ml",
 				"description": "Refreshing juice with vitamins.",
-				"price": 8
+				"price": 3.5
 			},
 			{
 				"name": "Coca Cola/Coca Cola Zero 330ml",
