@@ -183,15 +183,15 @@ p {
 
 
 .menu-item-highlighted.menu-item-highlighted {
-	@apply text-white bg-red-400 px-4 rounded-full py-1.5 hover:bg-red-400/80 hover:text-white;
+	@apply text-white bg-red-600 px-4 rounded-full py-1.5 hover:bg-red-600/80 hover:text-white;
 }
 
 .menu-item-active.menu-item-highlighted {
-	@apply hover:text-red-300;
+	@apply hover:text-white; 
 }
 
 .menu-item-active:not(.menu-item-highlighted) {
-	@apply text-red-700 font-bold bg-white/80 px-4 rounded-full py-1.5 hover:bg-red-200/80 hover:text-white;
+	@apply text-red-900 font-bold bg-white/80 px-4 rounded-full py-1.5 hover:bg-red-600/80 hover:text-white;
 }
 
 [x-cloak] {
