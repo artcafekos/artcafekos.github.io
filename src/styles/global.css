@@ -183,7 +183,7 @@ p {
 
 
 .menu-item-highlighted.menu-item-highlighted {
-	@apply text-white bg-red-600 px-4 rounded-full py-1.5 hover:bg-red-600/80 hover:text-white;
+	@apply text-white bg-red-900 px-4 rounded-full py-1.5 hover:bg-red-600/80 hover:text-white;
 }
 
 .menu-item-active.menu-item-highlighted {
@@ -215,7 +215,7 @@ label {
 
 /* Swiper */
 .swiper-pagination-bullet-active.swiper-pagination-bullet-active {
-	@apply bg-brand-red;
+	@apply bg-red-900;
 }
 
 /* inter-300 - latin */
