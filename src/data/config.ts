@@ -2,7 +2,7 @@
 export const siteLang = "en-UK";
 export const siteCurrency = "EUR";
 export const siteDomain = "astropie.com";
-export const siteName = "Art Cafe Espresso and Cannabis Bar";
+export const siteName = "Art Cafe Espresso Bar";
 export const siteSlogan = "The best coffee in Kos!";
 export const themeColor = "#FF0000";
 

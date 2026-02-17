@@ -24,12 +24,12 @@ const backgroundUrl = `url(${yourImageVar.src})`;
 
 ---
 
-<Layout title="Art Cafe Espresso and Cannabis Bar" pageTitle="Art Cafe Espresso and Cannabis Bar" description="Welcome to our Cafe!">
+<Layout title="Art Cafe Espresso Bar" pageTitle="Art Cafe Espresso Bar" description="Welcome to our Cafe!">
 	<Section  class="bg-[url('/bg-01.jpg')] bg-black/30 bg-blend-multiply bg-cover bg-center bg-no-repeat " >
 		<Hero>
 			<div slot="hero-content-left" class="prose max-w-none max-lg:order-1">
-				<Badge title="About Us" />
-				<h1 class="text-white">Art Cafe Espresso and Cannabis Bar</h1>
+				<Badge color="red2" text="white" title="About Us" />
+				<h1 class="text-white">Art Cafe Espresso  Bar</h1>
 
 				<p class="text-white ">
 					Established in 2015, Art Cafe is a family coffee shop that offers an experience unlike any other in Kos.
@@ -38,8 +38,10 @@ const backgroundUrl = `url(${yourImageVar.src})`;
 				</p>
 
 				<div class="mt-8 flex items-center gap-x-8">
-					<Button color="white" url="/menu">See our Menu</Button>
+					<Button color="red" url="/menu">See our Menu</Button>
+					<Button color="red" url="https://maps.app.goo.gl/51tXRMsmRErXNHMn6" target="_blank">Find Us on Google Maps</Button>
 					<ButtonCallUs />
+					
 				</div>
 			</div>
 			<div slot="hero-content-right">
