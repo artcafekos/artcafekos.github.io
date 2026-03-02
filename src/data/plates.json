@@ -254,59 +254,58 @@
 		]
 	},
 	{
-		"id": 5,
-		"slug": "wines",
-		"prettyName": "Wines and Spirits",
-		"description": "Indulge in our selection of fine wines and spirits.",
-		"plates": [
-			{
-				"name": "Moschofilero Boutari White Wine",
-				"description": "Pale yellow with greenish-yellow highlights, featuring an intense varietal aroma of flowers and citrus on the nose and palate—predominantly white rose and orange blossom. A fresh wine, full-bodied and well-balanced, with a long-lasting aftertaste.",
-				"price": 6
-			},
-			{
-				"name": "Agiorgitiko Boutari Red Wine",
-				"description": "An attractive deep red color, featuring a rich aromatic bouquet where scents of red fruits, such as plum, balance perfectly with sweet aging notes of vanilla and cocoa. It is full-bodied with excellent structure, balance, and a velvety finish.",
-				"price": 6
-			},
-			{
-				"name": "Ouzo",
-				"description": "Traditional Greek anise-flavored spirit.",
-				"price": 6
-			},
-			{
-				"name": "Metaxa Brandy",
-				"description": "A premium Greek brandy with a rich, complex flavor profile.",
-				"price": 8
-			},
-			{
-				"name": "Vodka",
-				"description": "Premium vodka with a smooth finish.",
-				"price": 8
-			},
-			{
-				"name": "Whiskey",
-				"description": "Premium whiskey with a smooth finish.",
-				"price": 8
-			},
-			{
-				"name": "Bacardi Rum",
-				"description": "Premium rum with a smooth finish.",
-				"price": 8
-			},
-			{
-				"name": "Gin",
-				"description": "Premium gin with a smooth finish.",
-				"price": 8
-			},
-			{
-				"name": "Tequila",
-				"description": "Premium tequila with a smooth finish.",
-				"price": 8
-			}
-			
-		]
-	},
+        "id": 5,
+        "slug": "wines",
+        "prettyName": "Wines and Spirits",
+        "description": "Indulge in our selection of fine wines and spirits.",
+        "plates": [
+            {
+                "name": "Moschofilero Boutari White Wine",
+                "description": "Pale yellow with greenish-yellow highlights, featuring an intense varietal aroma of flowers and citrus on the nose and palate—predominantly white rose and orange blossom. A fresh wine, full-bodied and well-balanced, with a long-lasting aftertaste.",
+                "price": 6
+            },
+            {
+                "name": "Agiorgitiko Boutari Red Wine",
+                "description": "An attractive deep red color, featuring a rich aromatic bouquet where scents of red fruits, such as plum, balance perfectly with sweet aging notes of vanilla and cocoa. It is full-bodied with excellent structure, balance, and a velvety finish.",
+                "price": 6
+            },
+            {
+                "name": "Ouzo",
+                "description": "Traditional Greek anise-flavored spirit.",
+                "price": 6
+            },
+            {
+                "name": "Metaxa Brandy",
+                "description": "A premium Greek brandy with a rich, complex flavor profile.",
+                "price": 8
+            },
+            {
+                "name": "Vodka",
+                "description": "A crystal-clear, premium vodka distilled for exceptional purity. It delivers a crisp, clean palate with subtle grain characteristics and a remarkably smooth, warming finish.",
+                "price": 8
+            },
+            {
+                "name": "Whiskey",
+                "description": "A meticulously crafted whiskey boasting a warm amber hue. Aromas of toasted oak and subtle caramel give way to a rich, full-bodied palate with notes of vanilla, gentle spice, and a lingering, mellow finish.",
+                "price": 8
+            },
+            {
+                "name": "Bacardi Rum",
+                "description": "A classic Caribbean rum, charcoal-filtered for supreme smoothness. It presents delicate floral and fruity notes with underlying hints of almond and vanilla, leading to a dry, crisp finish.",
+                "price": 8
+            },
+            {
+                "name": "Gin",
+                "description": "A perfectly balanced dry gin distilled with a harmonious blend of botanicals. Crisp juniper notes are brightened by vibrant citrus zest and subtle earthy spices, offering a refreshing and sophisticated taste.",
+                "price": 8
+            },
+            {
+                "name": "Tequila",
+                "description": "A vibrant, premium blue agave tequila. It offers fresh herbal and earthy agave aromas on the nose, followed by a crisp, lightly peppery palate and a pristine, smooth finish.",
+                "price": 8
+            }
+        ]
+    },
 	{
 		"id": 6,
 		"slug": "energy-drinks",
